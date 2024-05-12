@@ -1,14 +1,14 @@
-# This program can encrypt and encrypt any type of data in a very safe and very fast way, which it does by using a 61-letter sentence that we call a key. The key can be created and read only on a secure USB flash
+ **This (P3W) program can encrypt and encrypt any type of data in a very safe and very fast way, which it does by using a 61-letter sentence that we call a key. The key can be created and read only on a secure USB flash**
 
 ## Screenshots
 
-<img src="https://github.com/PAB-FA/Data-Encryption/blob/main/Img/1.png"/>
+<img src="https://github.com/PAB-FA/Data-Encryption/blob/main/img/1.png"/>
 
 
 ## Training to work with the program
 
 - Run the program in administrator mode until the root key turns green. **Note**: To turn on the backup and encryption of files in drive C, the root key must be green, otherwise it is not needed.
-<img src="https://github.com/PAB-FA/Data-Encryption/blob/main/Img/2.png"/>
+<img src="https://github.com/PAB-FA/Data-Encryption/blob/main/img/2.png"/>
 
 - Connect the flash drive to the desktop, then press the refresh key and select the drive
 - Click the connect button
@@ -31,3 +31,9 @@
 This program is tested and reliable. But we never accept responsibility for data loss or...
 ## Download Now
 - You can download the latest version for your Windows from [here](https://github.com/PAB-FA/Data-Encryption/releases/tag/V0.1)
+
+
+
+Uploading P3W.mp4…
+
+
